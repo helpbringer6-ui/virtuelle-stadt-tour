@@ -1,3 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('Welcome to the Virtual City Tour! Get ready to explore!');
+    setTimeout(function() {
+        console.log('Welcome to the Virtual City Tour! Get ready to explore!');
+    }, 1000);
 });
