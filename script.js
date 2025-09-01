@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('Virtuelle Stadt Tour ist bereit!');
+    console.log('The Virtual City Tour is ready!');
 });
